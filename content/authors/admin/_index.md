@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor at the University of Exeter in the Department of Economics and Land, Environment and Economic Policy Institute (LEEP). I am also a classical pianist, performing internationally.
+I am an assistant professor at the University of Exeter in the Department of Economics and the Land, Environment and Economic Policy Institute (LEEP). I am also a classical pianist, performing internationally.
 
-I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. 
+I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I am also working on natural resource economics as well as probability theory and stochastic analysis. 
