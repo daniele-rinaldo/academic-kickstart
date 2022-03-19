@@ -27,7 +27,7 @@ abstract: We extend the celebrated Rothschild and Stiglitz (1970) definition of 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
