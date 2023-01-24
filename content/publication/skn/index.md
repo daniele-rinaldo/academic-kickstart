@@ -3,7 +3,6 @@ title: "Skew-Normal Diffusions"
 authors:
 - admin
 - Max-Olivier Hongler
-date: "2022-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +29,8 @@ featured: true
 
 # links: 
 #  - name: arXiv
-#    url: https://arxiv.org/abs/2005.11500
-# name: Latest Version
+    url: https://arxiv.org/abs/2301.09225
+ name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
 # url_poster: '#'
