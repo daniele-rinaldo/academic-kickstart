@@ -14,20 +14,22 @@ role: Economist, Pianist
 
 # Organizations/Affiliations
 organizations:
-- name: The Graduate Institute of International and Development Studies
-  url: "https://graduateinstitute.ch/"
+- name: University of Exeter and Land, Economics, Environment and Policy Institute (LEEP)
+  url: "https://www.exeter.ac.uk/research/leep/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are development, health and environmental economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
+bio: My research interests are environmental, development and mathematical economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
 
 interests:
-- Development, health and environmental economics
-- Disease modeling
+- Environmental economics
+- Development Economics
 - Stochastic analysis and control
-- Contract theory
 
 education:
   courses:
+  - course: Scholar
+    institution: University of Cambridge
+    year: 2020;
   - course: PhD in Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
     year: 2018
@@ -74,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow at The Graduate Institute, Geneva, and principal investigator for the project "Schistosomiasis, Agriculture and Migration in Africa: a joint Economic and Ecological Approach" funded by the Swiss Network of International Studies. My current research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. Additionally, I work in mathematical economics, especially on applications of stochastic analysis and control to development, health and environmental economics. I am a classical pianist.
+I am an assistant professor (E&R lecturer) at the University of Exeter and at the Land, Economics, Environment and Policy Institute (LEEP). I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study optimal resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist.
