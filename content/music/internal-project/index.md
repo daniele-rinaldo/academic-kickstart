@@ -1,4 +1,4 @@
-![image](https://github.com/daniele-rinaldo/academic-kickstart/assets/68746938/51577799-4358-4bf8-850e-b9eaf2d568e4)---
+
 title: Concert biography
 summary: (last updated - April 2020)
 tags:
