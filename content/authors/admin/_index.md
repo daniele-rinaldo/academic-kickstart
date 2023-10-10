@@ -18,7 +18,7 @@ organizations:
   url: "https://www.exeter.ac.uk/research/leep/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are environmental, development and mathematical economics, currently focused on studying the economic impact of endemic diseases in sub-Saharan Africa. Also a pianist.
+bio: My research interests are environmental, development and mathematical economics. Also a pianist.
 
 interests:
 - Environmental economics
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Scholar
+  - course: Research Fellow
     institution: University of Cambridge
     year: 2020;
   - course: PhD in Economics
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant professor (E&R lecturer) at the University of Exeter and at the Land, Economics, Environment and Policy Institute (LEEP). I work at the nexus of development, environmental and mathematical economics. My current applied research studies the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study optimal resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist.
+I am an assistant professor (E&R lecturer) at the University of Exeter and at the Land, Economics, Environment and Policy Institute (LEEP). I work at the nexus of environmental, development and mathematical economics. My current research studies the drivers of deforestation and the economic impact of endemic diseases, with a focus on Sub-Saharan Africa. I also study optimal resource management under the threat of regime shifts and natural catastrophes. Additionally, I work on probability theory and stochastic analysis, with a focus on nonlinear diffusion processes. I am a classical pianist.
