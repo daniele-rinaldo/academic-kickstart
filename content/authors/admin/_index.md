@@ -29,7 +29,7 @@ education:
   courses:
   - course: Research Fellow
     institution: University of Cambridge
-    year: 2020;
+    year: 2020
   - course: PhD in Economics
     institution: The Graduate Institute of International and Development Studies, Geneva
     year: 2018
