@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Research Fellow
+  - course: Research Scholar
     institution: University of Cambridge
     year: 2021
   - course: PhD in Economics
