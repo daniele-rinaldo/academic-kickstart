@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links: 
- - name: arXiv
-   url: https://arxiv.org/abs/2301.09225
+ - name: DOI
+   url: https://link.springer.com/article/10.1007/s10955-026-03616-z
 # name: Latest Version
 #  url: img/Monopoly_Detection_EcologicalRegimes.pdf
 # url_pdf: 
